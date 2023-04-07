@@ -1,5 +1,7 @@
 # Learn Web Development
 
+---
+
 This is my preferred way of teaching/learning web development. Most of the content is freely available on the internet or you might just have to register for some things. I will clearly mark any resource that requires registration or payments.
 
 ### Let’s Begin!
@@ -18,10 +20,14 @@ This is my preferred way of teaching/learning web development. Most of the conte
     or
     
     - Video Course: [https://frontendmasters.com/courses/getting-started-css/](https://frontendmasters.com/courses/getting-started-css/) (Free upon registration)
+    
+    and
+    
+    - [https://www.codecademy.com/learn/learn-css-flexbox-and-grid](https://www.codecademy.com/learn/learn-css-flexbox-and-grid)
 4. JS (Quick Intro: [https://youtu.be/DHjqpvDnNGE](https://youtu.be/DHjqpvDnNGE))
     - Interactive Course: [https://www.codecademy.com/learn/introduction-to-javascript](https://www.codecademy.com/learn/introduction-to-javascript) (Free upon registration)
     
-    or
+    and
     
     - Video Course: [https://frontendmasters.com/courses/getting-started-javascript-v2/](https://frontendmasters.com/courses/getting-started-javascript-v2/) (Free upon registration)
 5. React (Quick Intro: [https://www.youtube.com/watch?v=Tn6-PIqc4UM](https://www.youtube.com/watch?v=Tn6-PIqc4UM))
